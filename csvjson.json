@@ -558,24 +558,6 @@
     "Things To Do": "Food & Drink"
   },
   {
-    "Name": "Capri Pizza & Beach Bar",
-    "Slug": "capri-pizza-beach-bar-c404f",
-    "Collection ID": "6946b81d9e236cb84bb404ca",
-    "Locale ID": "66ca412dffaeae770f01ce23",
-    "Item ID": "6967dc5aecd37816b04841b7",
-    "Latitude": 42.8652,
-    "Longitude": -79.1248,
-    "Address": "250 Pleasant Beach Rd, Port Colborne, ON L0S 1R0",
-    "Town": "Port Colborne",
-    "Category": "Food & Drink",
-    "Phone": "905-894-8881",
-    "Website": "https://www.caprisherkston.com/",
-    "Image": "https://pub-1f7f330fa7d6482ab4435d9b5249f255.r2.dev/capri-pizza-beach-bar.jpg",
-    "Tags": "restaurants",
-    "Places To Go": "Port Colborne",
-    "Things To Do": "Food & Drink"
-  },
-  {
     "Name": "Centennial Park - Cedar Bay Beach",
     "Slug": "centennial-park-cedar-bay-beach",
     "Collection ID": "6946b81d9e236cb84bb404ca",
